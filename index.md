@@ -1,85 +1,66 @@
 # Data Science Portfolio
 ---
-## Machine learning
 
-### Fraud Detection
+## Machine Learning
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+### Fraud Detection with Ensemble Models
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+This project focuses on detecting fraudulent financial transactions using a combination of advanced machine learning techniques, including Random Forest, XGBoost, and LightGBM. By analyzing real-world transaction data, we identified key behavioral patterns associated with fraud and trained an ensemble model that outperformed individual classifiers in both accuracy and recall. Feature engineering, handling imbalanced data using SMOTE, and evaluation with AUC-ROC were central to our approach.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/yourusername/fraud-detection-ensemble)
 
 <center><img src="assets/img/fraud_detection.jpg"/></center>
 
 ---
-### Financial-Models-Numerical-Methods
+### Quantitative Finance Modeling
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/yourusername/quantitative-finance)
 
-This is just a collection of topics and algorithms that in my opinion are interesting.
-
-It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, Lévy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
-The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
+A deep dive into financial modeling techniques including Monte Carlo simulations, Black-Scholes option pricing, and stochastic differential equations. This project explores how these models are implemented numerically using Python, with real-time visualizations and backtesting of strategies.
 
 <center><img src="assets/img/financial_modeling.jpg"/></center>
 
 ---
-### LSTM Neural Network for Time Series Prediction
+### LSTM for Stock Market Prediction
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Neural-Network-for-Time-Series-Prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/yourusername/lstm-stock-prediction)
 
-The following article sections will briefly touch on LSTM neuron cells, give a toy example of predicting a sine wave then walk through the application to a stochastic time series. The article assumes a basic working knowledge of simple deep neural networks.
+Built an LSTM neural network to predict stock price movements based on historical data. The model was trained using sequences of past stock values and evaluated on its ability to capture long-term dependencies in time-series data. Includes experiments with different lookback windows and dropout strategies.
 
-<center><img src="https://camo.githubusercontent.com/a085b4fe60690252b8aa2de917c53fc3f63aec21aafea21c8f1ecb543d2c44cb/68747470733a2f2f7777772e616c74756d696e74656c6c6967656e63652e636f6d2f6173736574732f74696d652d7365726965732d70726564696374696f6e2d7573696e672d6c73746d2d646565702d6e657572616c2d6e6574776f726b732f73696e776176655f66756c6c5f7365712e706e67"/></center>
+<center><img src="assets/img/lstm_stock_prediction.png"/></center>
 
 ---
-### Text Classification
+### Real-Time News Text Classification
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/cnn-text-classification-tf#readme)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/yourusername/news-text-classification)
 
-It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
+Developed a news article classifier that categorizes content into politics, sports, tech, and entertainment using NLP techniques and a Convolutional Neural Network. Preprocessing included tokenization, padding, and embedding layers. Trained on the AG News dataset and deployed as a simple web app.
 
 <center><img src="assets/img/text_classification.png"/></center>
 
 ---
-### Awesome Machine Learning
+### Curated Machine Learning Resources
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/awesome-machine-learning)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/yourusername/awesome-ml-resources)
 
-A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
+A handpicked collection of machine learning tools, libraries, datasets, tutorials, and books. Organized by categories like computer vision, NLP, time-series, and deep learning frameworks. A helpful resource for both beginners and advanced practitioners.
 
 <center><img src="assets/img/machine_learning.jpg"/></center>
 
 ---
-### Gesture Recognizer
+### Sign Language Gesture Recognition
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/CNNGestureRecognizer)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/yourusername/sign-language-recognition)
 
-Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
-
-Key Requirements: Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 0.9.0 (obsolete and not supported any further)
-
-Suggestion: Better to download Anaconda as it will take care of most of the other packages and easier to setup a virtual workspace to work with multiple versions of key packages like python, opencv etc.
+A real-time gesture recognition system using CNNs and OpenCV. The project can detect basic sign language gestures from a webcam feed using a trained deep learning model. Great use-case for integrating computer vision with accessibility solutions.
 
 <center><img src="assets/img/gesture_recognition.jpg"/></center>
 
 ---
-### Human Activity Recognition
+### Human Activity Recognition with LSTMs
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Human-Activity-Recognition)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/yourusername/human-activity-lstm)
 
-Human Activity Recognition (HAR) using smartphones dataset and an LSTM RNN. Classifying the type of movement amongst six categories:
-
-WALKING,
-WALKING_UPSTAIRS,
-WALKING_DOWNSTAIRS,
-SITTING,
-STANDING,
-LAYING.
-Compared to a classical approach, using a Recurrent Neural Networks (RNN) with Long Short-Term Memory cells (LSTMs) require no or almost no feature engineering. Data can be fed directly into the neural network who acts like a black box, modeling the problem correctly. Other research on the activity recognition dataset can use a big amount of feature engineering, which is rather a signal processing approach combined with classical data science techniques. The approach here is rather very simple in terms of how much was the data preprocessed.
-
-Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usage of an LSTM, a type of Artificial Neural Network that can process sequential data / time series.
+Using sensor data from smartphones, this project classifies human activities (e.g., walking, sitting, standing) with an LSTM-based neural network. We compared deep learning performance with traditional machine learning techniques and found that LSTMs required minimal feature engineering while delivering strong results.
 
 <center><img src="assets/img/human_activity.jpg"/></center>
-
-
-
