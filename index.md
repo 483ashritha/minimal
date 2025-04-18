@@ -78,7 +78,7 @@ Welcome to my digital portfolio! I'm Sadu Ashritha, a passionate and enthusiasti
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your.email@example.com]
+- 📧 Email: [ashrithasadhu@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/saduashritha](https://linkedin.com)
 - 💻 GitHub: [github.com/483ashritha](https://github.com/483ashritha)
 
