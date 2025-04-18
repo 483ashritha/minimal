@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Sadu Ashritha | Developer Portfolio
+logo: /assets/img/ashritha-logo.png  # Replace with your custom logo path if available
+description: A minimal yet creative portfolio of Sadu Ashritha - Developer | ML Enthusiast | Innovator
+show_downloads: false
+google_analytics:  # Add your tracking ID here if needed
 theme: jekyll-theme-minimal
