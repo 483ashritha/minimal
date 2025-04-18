@@ -1,123 +1,94 @@
----
+
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 👩‍💻 Sadu Ashritha
 
-[Link to another page](./another-page.html).
+### 🚀 Aspiring Developer | ML Enthusiast | Web Wizard
 
-There should be whitespace between paragraphs.
+Welcome to my digital portfolio! I'm Sadu Ashritha, a passionate and enthusiastic developer driven by curiosity and creativity. I love solving problems, building projects, and exploring the world of Machine Learning, Web Development, and Cloud Technologies.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 💼 About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> "Code is not just a set of instructions, it’s a reflection of creativity and passion."
 
-## Header 2
+- 👩‍🎓 Computer Science Graduate
+- 💡 Constant Learner and Innovator
+- 📚 Passionate about building impactful tech
+- 🎯 Quick adopter of new technologies
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## 🌟 Skills & Tools
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- **Languages:** Python, Java, HTML, CSS, JavaScript
+- **Frameworks:** Flask, Angular, Streamlit
+- **Databases:** MongoDB, MySQL
+- **Cloud:** AWS (Certified in Cloud Foundation)
+- **Tools:** Git, GitHub, VS Code, Postman
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## 📂 Projects
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### 🔹 **ContentGenius: AI-Powered Content Creation Platform**
+*Built for the Accenture Innovation Challenge*
 
-##### Header 5
+- Automates content creation using NLP and Generative AI
+- Integrated with SEO tools and customization templates
+- Tech Stack: Python, Flask, LangChain, Groq API, Streamlit
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### 🔹 **Smart Crop Advisor**
+*AI-based Agricultural Assistant*
 
-###### Header 6
+- Recommends suitable crops and diagnoses diseases using images
+- Modules powered by Random Forest, Groq LLM, IoT sensors
+- Integrated chatbot for real-time support
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### 🔹 **Maximized Profits Through Price Optimization**
+*Retail Forecasting & Optimization*
 
-### There's a horizontal rule below this.
+- Forecasts demand and profit using ML models (Linear Regression, Exponential Smoothing)
+- Scenario analysis for pricing strategies
+- Visualization via Matplotlib and Seaborn
 
-* * *
+### 🔹 **Online Bookstore - NovelNotes**
+*A MEAN Stack Web App*
 
-### Here is an unordered list:
+- Seamless user experience with Angular and Node.js backend
+- CRUD operations, cart system, and authentication features
+- Deployed on GitHub Pages
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## 🏆 Achievements
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+- 🎓 Top scorer in academics at college level
+- 🥇 Virtual Internship Program at Bharat Intern (Web Development)
+- 🥈 Google AIML & Zscaler Virtual Internship
+- 🏅 Completed certifications in:
+  - Cloud Foundation (AWS)
+  - Python Basics (Infosys Springboard)
+  - CCNA & Cybersecurity (Cisco)
+  - Data Structures (Board Infinity)
 
-### And a nested list:
+---
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+## 📫 Let's Connect
 
-### Small image
+- 📧 Email: [your.email@example.com]
+- 💼 LinkedIn: [linkedin.com/in/saduashritha](https://linkedin.com)
+- 💻 GitHub: [github.com/483ashritha](https://github.com/483ashritha)
+
+---
+
+> Made with ❤️ by Sadu Ashritha
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+ 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
